@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Can!</h1>
-<h3 align="center">I'm a Machine Learning Engineer and a Software Developer.</h3>
+<h3 align="center">I'm a Senior Machine Learning Engineer with a strong background in software infrastructure, MLOps and production lifecycles, as well as AWS Platform and Kubernetes.</h3>
 
 - Most of my projects are private, but here is a proof of concept chat bot: [Persona](https://github.com/canuysal/persona)
 
 - I also created this website, people seem to like it: [PoB Archives](https://pobarchives.com)
 
-- Ask questions about me here: **https://canuysal.vercel.app**
+- Ask questions about me here: **https://canuysal.vercel.app** (I know, Vercel is bad, but it's just a POC)
 
 - You can reach me [here](https://pobarchives.com/feedback)
 
