@@ -3,7 +3,11 @@
 
 - Most of my projects are private, but here is a proof of concept chat bot: [Persona](https://github.com/canuysal/persona)
 
+- I have some notebooks and research in [Kaggle](https://www.kaggle.com/uysalcan)
+
 - I also created this website, people seem to like it: [PoB Archives](https://pobarchives.com)
+  
+  _Some featurues of the website: User feed, recommendations, third party auth, account linking, meta analysis, automated ETL pipelines, extensive search engine, push/Telegram notifications, user CRUD operations_
 
 - Ask questions about me here: **https://canuysal.vercel.app** (I know, Vercel is bad, but it's just a POC)
 
