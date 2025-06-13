@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Can!</h1>
-<h3 align="center">I'm a Senior Machine Learning Engineer with a strong background in software infrastructure, MLOps and production lifecycles, as well as AWS Platform and Kubernetes.</h3>
+<h1 align="center">Hi, I'm Can!</h1>
+<h3 align="center">I'm a Senior Software Engineer with a strong background in infrastructure, MLOps and production lifecycles, as well as AWS Platform and Kubernetes.</h3>
 
-- Most of my projects are private, but here is a proof of concept chat bot: [Persona](https://github.com/canuysal/persona)
+- Most of my projects are private, but here is a proof of concept chat bot that answers questions about me: [Persona](https://github.com/canuysal/persona)
+
+- Terminal fellow got you covered in Linux with one-liners: [Terminal Fellow](https://github.com/canuysal/terminalfellow)
 
 - I have some notebooks and research in [Kaggle](https://www.kaggle.com/uysalcan)
 
-- I also created this website, people seem to like it: [PoB Archives](https://pobarchives.com)
+- I also created this website and scaled over 80,000 monthly sessions: [PoB Archives](https://pobarchives.com)
   
   _Some featurues of the website: User feed, recommendations, third party auth, account linking, meta analysis, automated ETL pipelines, extensive search engine, push/Telegram notifications, user CRUD operations_
 
-- Ask questions about me here: **https://canuysal.vercel.app** (I know, Vercel is bad, but it's just a POC)
+  _Built with: Next.js, MongoDB Atlas, ChromaDB, AWS Serverless (migrated into a VPS behind Cloudflare), FastAPI_
 
 - You can reach me [here](https://pobarchives.com/feedback)
 
